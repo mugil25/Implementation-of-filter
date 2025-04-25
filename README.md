@@ -131,30 +131,39 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
-![alt text](DIP-EXP-1.1.png)
+![image](https://github.com/user-attachments/assets/48a96aa4-1757-4a14-ab55-263e6cace3f7)
+
 
 
 ii)Using Weighted Averaging Filter
 
-![alt text](DIP-EXP-1.2.png)
+![image](https://github.com/user-attachments/assets/6c31c796-2727-4d8b-b68c-250704083534)
+
 
 iii)Using Gaussian Filter
-![alt text](DIP-EXP-1.3.png)
+
+
+
+![image](https://github.com/user-attachments/assets/a6aba943-ce77-4646-b7dd-793f1f581a48)
+
 
 iv) Using Median Filter
 
-![alt text](DIP-EXP-1.4.png)
+![image](https://github.com/user-attachments/assets/2938fde6-6d76-454c-a84e-afd6b7984778)
+
 
 ### 2. Sharpening Filters
 </br>
 
 i) Using Laplacian Kernal
 
-![alt text](DIP-EXP-1.5.png)
+![image](https://github.com/user-attachments/assets/04378b3a-b10f-4e8f-a61f-ee2701f9abec)
+
 
 ii) Using Laplacian Operator
 
-![alt text](DIP-EXP-1.6.png)
+![image](https://github.com/user-attachments/assets/ee99d244-64ef-4256-8fac-a1cb5b97fd19)
+
 
 </br>
 </br>
