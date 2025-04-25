@@ -131,6 +131,10 @@ plt.show()
 </br>
 
 i) Using Averaging Filter
+
+
+
+
 ![image](https://github.com/user-attachments/assets/48a96aa4-1757-4a14-ab55-263e6cace3f7)
 
 
